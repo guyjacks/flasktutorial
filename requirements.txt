@@ -1,0 +1,11 @@
+Flask
+Flask-WTF
+flask-bootstrap
+Flask-SQLAlchemy
+stormpath
+Flask-Login
+Flask-Uploads
+Flask-Mail
+Flask-Testing
+flask-webtest
+gunicorn
