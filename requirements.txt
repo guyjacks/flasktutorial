@@ -9,3 +9,4 @@ Flask-Mail
 Flask-Testing
 flask-webtest
 gunicorn
+pytest
